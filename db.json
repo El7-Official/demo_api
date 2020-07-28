@@ -126,43 +126,6 @@
                 "tag": "DOC_ACC_2_1",
                 "link": "/link_ACC_2_1"
             }]
-        },
-        {
-            "accident_id": 3,
-            "accident_folder": {
-                "accident": [{
-                    "attacker": {
-                        "id": 7,
-                        "fName": "Fadoua",
-                        "lName": "ZINAT",
-                        "identity": "MO201415",
-                        "email": "fadoua.zinat@vp.com",
-                        "insurance": "AXA",
-                        "phone": "+2126393831",
-                        "has_damage": true,
-                        "avatar": "/fadoua_zinat_avatar"
-                    },
-                    "victim": {
-                        "id": 8,
-                        "fName": "Mohamed",
-                        "lName": "FOLAN",
-                        "identity": "VR201415",
-                        "email": "mohamed.folan@vp.com",
-                        "insurance": "AXA",
-                        "phone": "+212854796",
-                        "has_damage": false,
-                        "avatar": "/mohamed_folan_avatar"
-                    },
-                    "date": "29/06/2020",
-                    "doc": "/link_ACC_3_1"
-                }],
-                "accident_tag": "accident_tag_3",
-                "accident_date": "28/06/2020",
-                "accident_docs": [{
-                    "tag": "DOC_ACC_3_1",
-                    "link": "/link_ACC_3_1"
-                }]
-            }
         }
     ],
     "_response": {
