@@ -1,11 +1,9 @@
 {
-    "payload": [
-        {
+    "payload": {
             "accident_id": 3,
             "accident_tag": "accident_tag_3",
             "accident_date": "28/06/2020"
-        }
-    ],
+        },
     "_response": {
         "code": "200",
         "message": "Valide"
