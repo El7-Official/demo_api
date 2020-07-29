@@ -19,7 +19,7 @@
                         "lName": "AHMADI",
                         "identity": "AC121314",
                         "email": "samira.ahmadi@vp.com",
-                        "insurance": "AXA",
+                        "insurance_name": "AXA",
                         "phone": "+212614161820",
                         "has_damage": false,
                         "avatar": "/samira_ahmadi_avatar"
@@ -34,7 +34,7 @@
                         "lName": "AHMADI",
                         "identity": "AC121314",
                         "email": "samira.ahmadi@vp.com",
-                        "insurance": "AXA",
+                        "insurance_name": "AXA",
                         "phone": "+212614161820",
                         "has_damage": false,
                         "avatar": "/samira_ahmadi_avatar"
@@ -45,7 +45,7 @@
                         "lName": "SARRAJ",
                         "identity": "AR526897",
                         "email": "said.sarraj@vp.com",
-                        "insurance": "AXA",
+                        "insurance_name": "AXA",
                         "phone": "+2126974538",
                         "has_damage": true,
                         "avatar": "/said_sarraj_avatar"
@@ -60,7 +60,7 @@
                         "lName": "SARRAJ",
                         "identity": "AR526897",
                         "email": "said.sarraj@vp.com",
-                        "insurance": "AXA",
+                        "insurance_name": "AXA",
                         "phone": "+2126974538",
                         "has_damage": true,
                         "avatar": "/said_sarraj_avatar"
@@ -71,7 +71,7 @@
                         "lName": "MOLAB",
                         "identity": "VR256879",
                         "email": "amina.molab@vp.com",
-                        "insurance": "AXA",
+                        "insurance_name": "AXA",
                         "phone": "+2126895210",
                         "has_damage": true,
                         "avatar": "/amina_molab_avatar"
@@ -101,7 +101,7 @@
                     "lName": "IBNARABI",
                     "identity": "EC256397",
                     "email": "zindin.ibnarabi@vp.com",
-                    "insurance": "AXA",
+                    "insurance_name": "AXA",
                     "phone": "+21252036987",
                     "has_damage": true,
                     "avatar": "/zindin_ibnarabi_avatar"
@@ -112,7 +112,7 @@
                     "lName": "MOHIB",
                     "identity": "AM232526",
                     "email": "leila.mohib@vp.com",
-                    "insurance": "ATLANTA",
+                    "insurance_name": "ATLANTA",
                     "phone": "+212404647",
                     "has_damage": false,
                     "avatar": "/leila_mohib_avatar"
